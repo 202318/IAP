@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";   // usually "localhost"
 $username   = "root";        // your MySQL username
-$password   = "Kendi";            // your MySQL password (often empty in XAMPP/WAMP)
+$password   = "0000";            // your MySQL password (often empty in XAMPP/WAMP)
 $dbname     = "testdb";      // your database name
 
 // Create connection
